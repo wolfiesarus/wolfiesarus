@@ -10,3 +10,4 @@
 <img src="https://64.media.tumblr.com/642ad963873576dc3262a2e3c8128e83/6e4d4b8c3786a546-c4/s2048x3072/a841ad57ef2b01b0428dc67a336f4763a022eeac.pnj" alt="Apple button banner" width="400" height="300"> 
   <img display: inline src="https://64.media.tumblr.com/a2afb99e57fca932f7f524206c06e70c/9cf642729c65101b-bd/s100x200/c87ea01f34aa63d3e7d51dfa73cbbefb3225fbef.pnj" alt="Pillar" width="90" height="90" display: inline> 
 <img src="https://64.media.tumblr.com/d5275b7a5f84be175e87961a8ddb75fb/e57af24e9513f075-7b/s640x960/ba39ceee33bac04171b007ada03a585b6382c307.gifv" alt="Plaid blinkie" width="400" height="400"> 
+<img src="https://64.media.tumblr.com/6ae2ae0eb840239a61c8d40f0e80abdf/92e639377260a363-8b/s640x960/2e64e5dbca9896cb23137f7ac04aa1c35e13b7dd.webp" alt="Plaid blinkie" width="400" height="400"> 
