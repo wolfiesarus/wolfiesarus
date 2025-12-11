@@ -1,1 +1,1 @@
-<img src="https://i.pinimg.com/1200x/24/5d/47/245d47e9b97f497a5d7b9a7572287a72.jpg" alt="Gala The Hound" width="400" height="300"> <img src="https://i.pinimg.com/736x/2e/55/ce/2e55ceac8e99e46e23aa97b1c89e4064.jpg" alt="Apple" width="400" height="300">
+<img src="https://i.pinimg.com/1200x/24/5d/47/245d47e9b97f497a5d7b9a7572287a72.jpg" alt="Gala The Hound" width="400" height="300"> <img src="https://png.pngtree.com/png-vector/20230328/ourmid/pngtree-red-apple-fruit-realistic-transparent-png-image_6673484.png" alt="Apple" width="400" height="300">
