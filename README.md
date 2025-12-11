@@ -9,6 +9,13 @@
   <img src="https://www.pngmart.com/files/21/Aesthetic-Flowers-Download-PNG-Image.png" alt="Flowers">
   <img src="ttps://64.media.tumblr.com/a2afb99e57fca932f7f524206c06e70c/9cf642729c65101b-bd/s100x200/c87ea01f34aa63d3e7d51dfa73cbbefb3225fbef.pnj" alt="Pillar">
   <img src="https://www.pngmart.com/files/21/Aesthetic-Flowers-Download-PNG-Image.png" alt="Flowers">
+    image-container {
+  display: flex;
+  /* Optional: Add space between images */
+  gap: 10px; 
+  /* Optional: Center images horizontally in the container */
+  justify-content: center; 
+}
 </div>
 <img src="https://64.media.tumblr.com/642ad963873576dc3262a2e3c8128e83/6e4d4b8c3786a546-c4/s2048x3072/a841ad57ef2b01b0428dc67a336f4763a022eeac.pnj" alt="Apple button banner" width="400" height="300"> 
 <img src="https://64.media.tumblr.com/d5275b7a5f84be175e87961a8ddb75fb/e57af24e9513f075-7b/s640x960/ba39ceee33bac04171b007ada03a585b6382c307.gifv" alt="Plaid blinkie" width="400" height="400"> 
