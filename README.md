@@ -5,6 +5,6 @@
 <img class="right-img" src="https://png.pngtree.com/png-vector/20230328/ourmid/pngtree-red-apple-fruit-realistic-transparent-png-image_6673484.png" alt="Apple" width="200" height="200"> 
 <img src="https://64.media.tumblr.com/642ad963873576dc3262a2e3c8128e83/6e4d4b8c3786a546-c4/s2048x3072/a841ad57ef2b01b0428dc67a336f4763a022eeac.pnj" alt="Apple button banner" width="400" height="300"> 
 <p>Hiya ! I'm Juno, aka Wolfie :D Be sure to check out my strawpage, as it has most information about me including DNI criteria, INT information, my interests, and more ! Thank you for stopping by ! Safe travels, stranger <3</p> 
-<img src="https://www.pngmart.com/files/21/Aesthetic-Flowers-Download-PNG-Image.png" alt="Flowers" width="90" height="90"> 
+<img class="right-img" src="https://www.pngmart.com/files/21/Aesthetic-Flowers-Download-PNG-Image.png" alt="Flowers" width="90" height="90"> 
 <img src="https://64.media.tumblr.com/642ad963873576dc3262a2e3c8128e83/6e4d4b8c3786a546-c4/s2048x3072/a841ad57ef2b01b0428dc67a336f4763a022eeac.pnj" alt="Apple button banner" width="400" height="300"> 
 <img src="https://64.media.tumblr.com/d5275b7a5f84be175e87961a8ddb75fb/e57af24e9513f075-7b/s640x960/ba39ceee33bac04171b007ada03a585b6382c307.gifv" alt="Plaid blinkie" width="400" height="400"> 
